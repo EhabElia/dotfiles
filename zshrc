@@ -40,3 +40,4 @@ export NVM_DIR="/Users/ehabelia/.nvm"
 
 export PATH="$PATH:$HOME/.rvm/bin" # Add RVM to PATH for scripting
 export BUNDLER_EDITOR="'/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl'"
+export BUNDLER_EDITOR="'/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl'"
